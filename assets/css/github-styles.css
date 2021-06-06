@@ -159,6 +159,9 @@ img {
 }
 
 /* input field */
+#loader {
+  text-align: center;
+}
 
 #gh-username {
   display: block;
